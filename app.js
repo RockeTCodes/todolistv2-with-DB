@@ -31,7 +31,7 @@ app.use(express.static("public"));
 
 
 //connecting to mongoDB
-mongoose.connect("mongodb+srv://admin-rocketcodes:<pass>@cluster1.v0l1hp9.mongodb.net/todolistDB");
+mongoose.connect("mongodb+srv://admin-rocketcodes:mzmschool@cluster1.v0l1hp9.mongodb.net/todolistDB");
 
 
 //creating itemschema for default list

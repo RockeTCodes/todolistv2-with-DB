@@ -10,3 +10,6 @@ ejs
 mongoose
 
 Checkout this web app here : https://busy-plum-cheetah-cape.cyclic.app
+
+
+Note: There might be a delay in updation or deletion because the db and site are hosted on free teirs . So kindly bear that . 

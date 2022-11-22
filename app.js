@@ -82,7 +82,7 @@ const defaultItems = [item1, item2, item3];
 
 
 //request for homepage
-app.get("/", function(req, res) {
+app.get("/op", function(req, res) {
 
   Item.find({}, function(err, foundItems) {
 
